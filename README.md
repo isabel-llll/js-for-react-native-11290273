@@ -16,4 +16,4 @@
 
 
 ### TASK 4
-- Included this 'README.md' file to descrie each task.
+- Included this 'README.md' file to describe each task.
